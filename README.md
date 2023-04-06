@@ -16,6 +16,7 @@ Armut, which is the biggest online service platform in Turkey, connects individu
 
 # Dataset Story
 The dataset comprises information about the services that customers receive and their respective categories, as well as the date and time at which each service is provided.
+
 -UserId: Customer number 
 -ServiceId: Anonymized services belonging to each category. 
 -(Example: Upholstery washing service under Cleaning category) 
