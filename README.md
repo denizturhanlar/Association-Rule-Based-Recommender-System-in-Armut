@@ -19,9 +19,9 @@ The dataset comprises information about the services that customers receive and 
 
 - UserId: Customer number 
 - ServiceId: Anonymized services belonging to each category. 
-- (Example: Upholstery washing service under Cleaning category) 
+#(Example: Upholstery washing service under Cleaning category) 
 - A ServiceId can be found under different categories and represents different services under different categories. 
-- (Example: While the service with CategoryId 7 and ServiceId 4 is honeycomb cleaning, the service with CategoryId 2 and ServiceId 4 is furniture assembly) 
+#(Example: While the service with CategoryId 7 and ServiceId 4 is honeycomb cleaning, the service with CategoryId 2 and ServiceId 4 is furniture assembly) 
 - CategoryId: Anonymized categories. (Example: Cleaning, shipping, renovation category) 
 - CreateDate: The date the service was purchased
 
