@@ -12,6 +12,7 @@ Here are some examples of areas of use:
 
 ![armut](https://user-images.githubusercontent.com/126112467/230490145-993bf731-75de-4c09-9e49-1452cccd1c4b.png)
 
+# Business Problem
 Armut, which is the biggest online service platform in Turkey, connects individuals who require services with service providers. With just a few clicks on a computer or smartphone, users can easily access a range of services, including cleaning, transportation, and renovation. The objective is to develop a product recommendation system utilizing Association Rule Learning, based on a dataset containing service users, the services they have received, and their corresponding categories.
 
 # Dataset Story
