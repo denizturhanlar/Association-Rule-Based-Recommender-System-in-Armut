@@ -27,7 +27,7 @@ pd.set_option('display.max_columns', None)
 from mlxtend.frequent_patterns import apriori, association_rules
 
 #########################
-# TASK 1: Veriyi Hazırlama
+# TASK 1: Prepare the Data 
 #########################
 
 # Step 1: read the armut_data.csv file
